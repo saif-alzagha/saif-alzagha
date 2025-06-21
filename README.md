@@ -15,11 +15,11 @@ News Interview of young me:
 - Interests: Robotics, Computer Vision, AI Systems
 
 ### 🔗 Projects
-- [summer2025-ai-robotics-track](https://github.com/YOUR-USERNAME/summer2025-ai-robotics-track): my AI + Robotics summer logbook
+- [summer2025-ai-robotics-track](https://github.com/saif-alzagha/summer2025-ai-robotics-track): my AI + Robotics summer logbook
 - Project 2 coming soon...
 
 ### 📬 Connect With Me
-- [LinkedIn](https://linkedin.com/in/YOUR-USERNAME)
+- [LinkedIn](https://linkedin.com/in/saif-zagha)
 - Portfolio: Coming Soon
 <!--
 **saif-alzagha/saif-alzagha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
