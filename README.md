@@ -1,8 +1,9 @@
 ## Hi there I'm Saif Zagha👋
 I'm currently a Data Science @ Purdue interested in Python, Data Science, and all things AI/ML
 I've been traditionaly coding and working on projects since I was 7. Now I am shifting into AI.
+
 News Interview of young me:
-  -[News](https://www.youtube.com/watch?v=R7naUuOyoXs&list=LL&index=1&t=4s&pp=gAQBiAQB)
+-[News](https://www.youtube.com/watch?v=R7naUuOyoXs&list=LL&index=1&t=4s&pp=gAQBiAQB)
 
 🚀 Aspiring AI/Robotics Engineer 
 🧠 Building a path to applied intelligence through code, systems, and innovation.  
