@@ -5,16 +5,21 @@ I've been traditionaly coding and working on projects since I was 7. Now I am sh
 News Interview of young me:
 -[News](https://www.youtube.com/watch?v=R7naUuOyoXs&list=LL&index=1&t=4s&pp=gAQBiAQB)
 
-🚀 Aspiring AI/Robotics Engineer 
-
-🧠 Building a path to applied intelligence through code, systems, and innovation.  
-
-🔬 Currently exploring computer vision, autonomous systems, and machine learning.  
+### 🔭 What I'm Working On
+- 🤖 Autonomous robotics projects (hardware + AI integration)
+- 🧠 Learning and implementing core ML models
+- 💡 Building toward launching my own AI startup — not someday, but soon
+- 🔧 Documenting everything here and on LinkedIn 
 
 ### 🔧 Tech Stack
 - Languages: Python, C++, HTML/CSS, JavaScript (Learning more along the way :))
 - Tools: Git, GitHub CLI, VS Code, Bash
 - Interests: Robotics, Computer Vision, AI Systems
+
+### 🧱 Tech Interests
+- Robotics + Embedded Intelligence
+- Machine Learning + Autonomous Systems
+- Quantitative Thinking + Financial Systems
 
 ### 🔗 Projects
 - [summer2025-ai-robotics-track](https://github.com/saif-alzagha/summer2025-ai-robotics-track): my AI + Robotics summer logbook
