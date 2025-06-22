@@ -6,7 +6,9 @@ News Interview of young me:
 -[News](https://www.youtube.com/watch?v=R7naUuOyoXs&list=LL&index=1&t=4s&pp=gAQBiAQB)
 
 🚀 Aspiring AI/Robotics Engineer 
+
 🧠 Building a path to applied intelligence through code, systems, and innovation.  
+
 🔬 Currently exploring computer vision, autonomous systems, and machine learning.  
 
 ### 🔧 Tech Stack
@@ -21,6 +23,9 @@ News Interview of young me:
 ### 📬 Connect With Me
 - [LinkedIn](https://linkedin.com/in/saif-zagha)
 - Portfolio: Coming Soon
+
+- 🌱 My Long-Term Mission
+To launch an AI company that solves real-world problems — no GPT wrappers, no gimmicks. I'm building domain expertise, technical skill, and a community as early as possible.
 <!--
 **saif-alzagha/saif-alzagha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
